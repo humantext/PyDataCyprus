@@ -7,9 +7,13 @@ Links:
 ## Past meetups
 
 You can find schedules, slides and recordings of previous events below.
-- [1st PyData Cyprus meetup 22 March 2018][meetup:1]
+- [#1 PyData Cyprus meetup 22 March 2018][meetup:1]
 
 [meetup:1]: ./meetup_2018_03_22
+
+- [#2 PyData Cyprus meetup 19 April 2018][meetup:2]
+
+[meetup:2]: ./meetup_2018_04_19
 
 ## What we are about
 
